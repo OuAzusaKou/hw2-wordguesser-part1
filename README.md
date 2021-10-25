@@ -1,3 +1,4 @@
+## https://github.com/OuAzusaKou/hw2-wordguesser-part1.git
 ## We complete all autotest.
 ### 1. bundle exec autotest then you will get the all autotest is passed.
 ## For Part-3
@@ -6,3 +7,4 @@
 ### 3.git commit -m "Ready for Heroku!"
 ### 4.heroku login
 ### 5.git push heroku master
+
